@@ -1,4 +1,4 @@
-# Day 1 - Keywords and Identifiers
+# Keywords and Identifiers
 
 Welcome to your first day of programming at Revature. These mini projects are designed to get your more comfortable with programming in Python in general without having to focus on making sure your environemnt is working. It is essentially after this week to have your environment working but in the meantime, to get more comfortable with programming in general, these tasks have been provided.
 
